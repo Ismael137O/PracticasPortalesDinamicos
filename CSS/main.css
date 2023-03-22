@@ -2,8 +2,6 @@
 width: 200px;
 border-radius: 50%;
 
-
-
 }
 
 .efecto:hover{
@@ -12,7 +10,36 @@ cursor: pointer;
 transition: 3s;
 
 }
-h4{
-    color: peru;
-    width: 30%;
+
+body{
+
+background-color: blanchedalmond;
+margin: 100px;
+
 }
+
+hr{
+width: 85%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
